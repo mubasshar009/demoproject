@@ -2,3 +2,5 @@ Hello
 asdad
 
 These changes are made in github repo
+
+Changes in smartgit
